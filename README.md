@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanShinde
 - 👀 I’m interested in Python web develpment & data science
-- 🌱 I’m currently learning Flask & Azure
+- 🌱 I’m currently learning Web dev with React & Python
 - 💞️ I’m looking to collaborate on small utility apps
 
 
